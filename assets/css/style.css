@@ -328,7 +328,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero h2 {
   color: #eee;
-  margin-left: auto;
+  margin-left: 0;
   margin-bottom: 50px;
   font-size: 13px;
   font-weight: 500;
@@ -930,10 +930,4 @@ section {
 
 #footer .credits {
   font-size: 13px;
-}
-/*--------------------------------------------------------------
-# contact
---------------------------------------------------------------*/
-.contact .content ul{
-  list-style: none;
 }
