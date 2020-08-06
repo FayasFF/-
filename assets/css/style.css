@@ -4,6 +4,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
+
   
 }
 
@@ -39,13 +40,13 @@ h1, h2, h3, h4, h5, h6 {
   width: 40px;
   height: 40px;
   border-radius: 4px;
-  background: #27dfff81;
+  background: #00fc0dcc;
   color: #fff;
   transition: all 0.4s;
 }
 
 .back-to-top i:hover {
-  background: #50c8ff;
+  background: #ff831d;
   color: #fff;
 }
 
@@ -97,7 +98,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #5aafff;
+  color: #65ff57;
   text-decoration: none;
 }
 
@@ -111,7 +112,7 @@ h1, h2, h3, h4, h5, h6 {
   visibility: hidden;
   padding: 10px 0;
   background: #fff;
-  box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
+  box-shadow: 0px 0px 30px rgba(0, 255, 13, 0.541);
   transition: ease all 0.3s;
 }
 
@@ -135,7 +136,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-  color: #27bbff;
+  color: #64ff27;
 }
 
 .nav-menu .drop-down > a:after {
@@ -206,7 +207,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 15px;
   z-index: 9999;
   overflow-y: auto;
-  background: #fff;
+  background: rgba(12, 12, 12, 0.356);
   transition: ease-in-out 0.2s;
   opacity: 0;
   visibility: hidden;
@@ -223,14 +224,14 @@ h1, h2, h3, h4, h5, h6 {
 .mobile-nav a {
   display: block;
   position: relative;
-  color: #3b434a;
+  color: #cacaca;
   padding: 10px 20px;
   font-weight: 500;
   outline: none;
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #27cdff;
+  color: #27ff6f;
   text-decoration: none;
 }
 
@@ -323,7 +324,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 0 10px 0;
   font-size: 64px;
   font-family: "Satisfy", serif;
-  color: #fff;
+  color: rgba(79, 255, 93, 0.788);
 }
 
 #hero h2 {
@@ -468,7 +469,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 2px;
-  color: #27ff27c2;
+  color: #fffb27c2;
 }
 
 .about .content .count-box {
@@ -553,7 +554,7 @@ section {
   width: 1px;
   height: 10px;
   transition: .9s;
-  background-color: #27ff3993;
+  background-color: #27d4ffc9;
 }
 
 /*--------------------------------------------------------------
@@ -570,7 +571,7 @@ section {
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #82909c;
+  border-left: 2px solid #83919ecb;
   position: relative;
 }
 
@@ -623,11 +624,12 @@ section {
   padding: 30px;
   position: relative;
   overflow: hidden;
-  background: rgba(7, 7, 7, 0.103);
+  background: rgba(255, 254, 254, 0);
   box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
   transition: all 0.3s ease-in-out;
   text-align: center;
-  border: 1px solid #fff;
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 1% 40%;
 }
 
 .services .icon {
@@ -644,7 +646,7 @@ section {
 .services .icon i {
   font-size: 36px;
   line-height: 1;
-  color: #27cdff;
+  color: #e6e6e6;
 }
 
 .services .title {
@@ -665,7 +667,7 @@ section {
 }
 
 .services .icon-box:hover {
-  border-color: #0000003b;
+  border-color: #00000000;
 }
 
 .services .icon-box:hover .title a {
