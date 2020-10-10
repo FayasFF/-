@@ -3,7 +3,11 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
+<<<<<<< HEAD
   color: #3f3f3f;
+=======
+  color: #444444;
+>>>>>>> f9ad4c1cc138cb1d6a726102733a2682a91d6fd2
 
   
 }
@@ -40,7 +44,11 @@ h1, h2, h3, h4, h5, h6 {
   width: 40px;
   height: 40px;
   border-radius: 4px;
+<<<<<<< HEAD
   background: #00fc22cc;
+=======
+  background: #00fc0dcc;
+>>>>>>> f9ad4c1cc138cb1d6a726102733a2682a91d6fd2
   color: #fff;
   transition: all 0.4s;
 }
@@ -324,7 +332,11 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 0 10px 0;
   font-size: 64px;
   font-family: "Satisfy", serif;
+<<<<<<< HEAD
   color: rgba(0, 238, 255, 0.808);
+=======
+  color: rgba(79, 255, 93, 0.788);
+>>>>>>> f9ad4c1cc138cb1d6a726102733a2682a91d6fd2
 }
 
 #hero h2 {
@@ -469,7 +481,11 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 2px;
+<<<<<<< HEAD
   color: #fffb00e0;
+=======
+  color: #fffb27c2;
+>>>>>>> f9ad4c1cc138cb1d6a726102733a2682a91d6fd2
 }
 
 .about .content .count-box {
@@ -554,7 +570,11 @@ section {
   width: 1px;
   height: 10px;
   transition: .9s;
+<<<<<<< HEAD
   background-color: #27ff7a8c;
+=======
+  background-color: #27d4ffc9;
+>>>>>>> f9ad4c1cc138cb1d6a726102733a2682a91d6fd2
 }
 
 /*--------------------------------------------------------------
